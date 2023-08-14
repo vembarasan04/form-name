@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border=3>
+            <th colspan=5/><h3>mark list</h3>
+                <tr>
+                    <th>name
+                        <th>subject
+                            <th>mark
+                                <tr>
+                                    <td>arasan
+                                        <td>python
+                                            <td>69
+                                                <tr>
+                                                    <td>siva
+                                                        <td>web developer
+                                                            <td>76
+                                                            </tr>
+                                                                <td><a href="www.instagram.com"></a>
+                                                                    <td colspan=5></td>
+                                                            </td>
+                                                        </td>
+                                                    </td>
+                                                </tr>
+                                            </td>
+                                        </td>
+                                    </td>
+                                </tr>
+                            </th>
+                        </th>
+                    </th>
+                </tr>
+                </th></tr>
+            </h3></th>
+            <tr>
+
+            </tr>
+    </table>
+    
+</body>
+</html>
